@@ -1,13 +1,75 @@
-poor
-immigration
-Australia
-problems
-because
-future
-same time
-difficult
-studying
-wrong
-tailored
-arbitrary
-hilarious
+Adept - بارع
+Apathy - لا مبالاة
+Absurd - سخيف
+Belligerent - عدائي
+Benevolent - خيري / حسن النية
+Baffled - مرتبك
+Cacophony - ضجيج
+Candid - صريح
+Convoluted - معقد
+Cursory - سطحي
+Dearth - نقص
+Diligent - مجتهد
+Discrepancy - تباين
+Ebullient - متحمس / مفعم بالحيوية
+Eloquent - بليغ
+Emulate - يقلد
+Fractious - سريع الغضب
+Frivolous - تافه
+Frustration - إحباط
+Glimpse - لمحة
+Grievance - شكوى
+Gregarious - اجتماعي
+Harbinger - نذير
+Hilarious - مضحك للغاية
+Hypocrisy - نفاق
+Hypothetical - افتراضي
+Inept - غير كفء
+Inevitably - حتمًا
+Ironic - ساخر
+Immaculate - نقي / خالٍ من العيوب
+Juvenile - مراهق / غير ناضج
+Juxtaposition - تداخل
+Juxtapose - يضع بجانب بعض
+Kinetic - حركي
+Kudos - تقدير
+Lucid - واضح / جلي
+Metaphor - مجاز
+Meticulous - دقيق
+Morose - كئيب
+Nefarious - شرير
+Nostalgia - حنين
+Nostalgic - حنين إلى الماضي
+Oblivious - غافل
+Obscure - غامض / غير معروف
+Ominous - مشؤوم
+Perfunctory - روتيني
+Perplexing - محير
+Plausible - معقول
+Pernicious - خبيث
+Quaint - غريب / جذاب
+Quagmire - مستنقع
+Quixotic - خيالي
+Quintessential - جوهري
+Reclusive - منعزل
+Repercussion - تداعيات
+Resilient - مرن
+Resonate - يتردد صدى
+Sagacious - حكيم
+Sanguine - متفائل
+Skeptical - متشكك
+Superficial - سطحي
+Taciturn - قليل الكلام
+Tangible - ملموس
+Tenacious - مثابر
+Uncanny - غريب
+Unprecedented - غير مسبوق
+Uphill - شاق
+Vehement - متحمس / شديد
+Vindictive - انتقامي
+Voracious - نهم
+Wistful - حزين مع الحنين
+Whimsical - غريب الأطوار
+Yearn - يتوق
+Zealous - متحمس
+Zephyr - نسيم

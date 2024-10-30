@@ -4,7 +4,7 @@
 
 ## Features
 
-- Sends a notification with a random word every 10 minutes.
+- Sends a notification with a random word every 5 minutes.
 - Words are sourced from a user-provided `.txt` file, making it fully customizable.
 - Easy setup and lightweight, perfect for learning on the go!
 
@@ -28,7 +28,7 @@
 ## Configuration
 
 - Word List: Edit words.txt to customize the words shown in notifications.
-- Notification Interval: Default is every 10 minutes; you can adjust this in the script by changing the sleep duration.
+- Notification Interval: Default is every 5 minutes; you can adjust this in the script by changing the sleep duration.
 
 ## Contributing
 
