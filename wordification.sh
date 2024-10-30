@@ -3,17 +3,22 @@
 # Path to the text file with the list of words
 WORD_FILE="words.txt"
 
-# Infinite loop to send a notification every 2.5 minutes
+# Read words into an array
+mapfile -t WORDS <"$WORD_FILE"
+
+# Infinite loop to send notifications
 while true; do
-    # Choose a random word from the file
-    WORD=$(shuf -n 1 "$WORD_FILE")
+    for WORD in "${WORDS[@]}"; do
+        # Send the notification with the word
+        notify-send -u critical -t 5000 -i dialog-warning "Vocabulary Builder" "$WORD"
 
-    # Use HTML styling for larger, bold red text
-    FORMATTED_WORD="<span font='18' color='red'><b>$WORD</b></span>"
+        # Wait for 5 minutes (300 seconds) before the next notification
+        sleep 300
 
-    # Send the notification with the formatted word
-    notify-send -u critical -t 10000 -i dialog-warning "Vocabulary Builder" "$FORMATTED_WORD"
+        # Repeat the word notification
+        notify-send -u critical -t 5000 -i dialog-warning "Vocabulary Builder" "$WORD"
 
-    # Wait for 5 minutes (300 seconds) before the next notification
-    sleep 300
+        # Wait for another 5 minutes before moving to the next word
+        sleep 300
+    done
 done
