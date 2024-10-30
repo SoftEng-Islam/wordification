@@ -15,3 +15,18 @@
     ```bash
    git clone https://github.com/SoftEng-Islam/wordification.git
    cd wordification
+
+
+## Configuration
+
+- Word List: Edit words.txt to customize the words shown in notifications.
+- Notification Interval: Default is every 10 minutes; you can adjust this in the script by changing the sleep duration.
+
+## Contributing
+
+Feel free to contribute with new features, improvements, or fixes. Open a pull request, and I’ll review it as soon as possible!
+
+## License
+
+This project is licensed under the MIT License.
+
