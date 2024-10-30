@@ -12,16 +12,18 @@
 
 **Clone the repository**:
 
-    ```bash
-   git clone <https://github.com/SoftEng-Islam/wordification.git>
-   cd wordification
+```bash
+    git clone <https://github.com/SoftEng-Islam/wordification.git>
+    cd wordification
+```
 
 ## Usage
 
 **Run the script to start receiving vocabulary notifications**:
 
-    ```bash
-./wordification.sh &
+```bash
+    ./wordification.sh &
+```
 
 ## Configuration
 
