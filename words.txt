@@ -1,22 +1,43 @@
 Adept - بارع
 Apathy - لا مبالاة
 Absurd - سخيف
-Belligerent - عدائي
-Benevolent - خيري / حسن النية
+Advantages - مزايا
+Anti-semitic - معاداة السامية
+Arranged - مرتبة
+Atomically - ذرّياً
 Baffled - مرتبك
-Cacophony - ضجيج
-Candid - صريح
-Convoluted - معقد
+Bellyaching - الشكوى
+Belligerent - عدائي
+Beyond - أبعد
+Bleached - مبيّض
+Briefly - باختصار
+Casual - غير رسمي
+Clue - دليل
+Cobbler - صانع أحذية
+Concise - مختصر
+Considering - بالنظر إلى
+Contractual - تعاقدي
+Convenient - ملائم
 Cursory - سطحي
+Darn - تبا
 Dearth - نقص
-Diligent - مجتهد
+Demonstrated - مُثبت
+Detailed - مفصل
+Differences - اختلافات
+Digest - هضم
+Disadvantages - عيوب
 Discrepancy - تباين
-Ebullient - متحمس / مفعم بالحيوية
+Diligent - مجتهد
+Ebullient - مفعم بالحيوية
 Eloquent - بليغ
-Emulate - يقلد
-Fractious - سريع الغضب
+Empathetic - متعاطف
+Exceptions - استثناءات
+Explanations - شروحات
+Fearsome - مخيف
+Fluency - الطلاقة
 Frivolous - تافه
 Frustration - إحباط
+Frightened - خائف
 Glimpse - لمحة
 Grievance - شكوى
 Gregarious - اجتماعي
@@ -27,172 +48,187 @@ Hypothetical - افتراضي
 Inept - غير كفء
 Inevitably - حتمًا
 Ironic - ساخر
-Immaculate - نقي / خالٍ من العيوب
 Juvenile - مراهق / غير ناضج
 Juxtaposition - تداخل
 Juxtapose - يضع بجانب بعض
 Kinetic - حركي
 Kudos - تقدير
 Lucid - واضح / جلي
+Manoeuvre - مناورة
+Manipulate - يتلاعب
 Metaphor - مجاز
 Meticulous - دقيق
+Monotony - ملل
 Morose - كئيب
+Mutable - قابل للتغيير
 Nefarious - شرير
-Nostalgia - حنين
-Nostalgic - حنين إلى الماضي
+Necessary - ضروري
+Notion - فكرة
 Oblivious - غافل
 Obscure - غامض / غير معروف
 Ominous - مشؤوم
+Opinionated - متعصب الرأي
 Perfunctory - روتيني
 Perplexing - محير
 Plausible - معقول
 Pernicious - خبيث
-Quaint - غريب / جذاب
-Quagmire - مستنقع
-Quixotic - خيالي
-Quintessential - جوهري
+Potential - محتمل
+Postponed - مؤجل
+Precise - دقيق
+Recommendations - توصيات
 Reclusive - منعزل
 Repercussion - تداعيات
 Resilient - مرن
+Retention - حفظ
 Resonate - يتردد صدى
 Sagacious - حكيم
 Sanguine - متفائل
+Schema - مخطط
 Skeptical - متشكك
+Specific - محدد
+Straight - مستقيم
+Subtle - خفي
 Superficial - سطحي
 Taciturn - قليل الكلام
 Tangible - ملموس
 Tenacious - مثابر
+Terrified - خائف جدًا
 Uncanny - غريب
+Uncomprehending - غير فاهم
 Unprecedented - غير مسبوق
 Uphill - شاق
-Vehement - متحمس / شديد
-Vindictive - انتقامي
 Voracious - نهم
-Wistful - حزين مع الحنين
 Whimsical - غريب الأطوار
+Wistful - حزين مع الحنين
 Yearn - يتوق
 Zealous - متحمس
 Zephyr - نسيم
-fearsome - مخيف
-monotony - ملل
-drawbacks - العيوب
-potentially - محتمل
-motivation - تحفيز
-frustration - إحباط
+Fearsome - مخيف
+Monotony - ملل
+Drawbacks - العيوب
+Potentially - محتمل
+Motivation - تحفيز
+Frustration - إحباط
 Retention - حفظ
-mitigate
-mutate
-attempts
-orchestration
-assumptions
-advantages
-disadvantages
-manipulate
-notion
-derivation
-rather
-subtle
-difference
-interchangeably
-convenient
-arrange
-appropriate
-occupying
-Mutable
-immutable
-against
-Straight
-compose
-adapted
-composition
-responsibility
-remains
-satisfied
-architectural
-Considering
-overall
-beyond
-worth
-briefly
-instructions
-through
-bootstrap
-particular
-daemon
-initializes
-schema
-increment
-upon
-inspect
-initial
-encounter
-convenient
-realizing
-rollbacks
-spread
-among
-unified
-atomically
-reproduces
-hierarchy
-means
-symbolic
-therefore
-preparation
-summing
-Exceptions
-Traceback
-nightmares
-screwed
-bellyaching
-embarked
-vixen
-postponed
-terrified
-uncomprehending
-dim
-creatures
-capable
-eloquently
-hanging out
-darn
-contractual
-obligation
-loophole
-agreement
-bleached
-sideburns
-rhetorical
-clue
-occasion
-cobbler
-ride
-hips
-worse
-frightened
-embarrassed
-humiliating
-suffer
-specific
-situation
-empathetic
-sucks
-burp
-themselves
-necessary
-query
-closures
-recursively
-foresee
-potential
-cluttering
-demonstrated
-above
-coexist
-anti-semitic
-spank
-concise
-straightforward
-contractions
-precise
-Certainly
+Mitigate - يخفف
+Mutate - يتغير
+Attempts - محاولات
+Orchestration - تنسيق
+Assumptions - افتراضات
+Advantages - مزايا
+Disadvantages - عيوب
+Manipulate - يتلاعب
+Notion - فكرة
+Derivation - اشتقاق
+Rather - بالأحرى
+Subtle - خفي
+Difference - فرق
+Interchangeably - بالتبادل
+Convenient - ملائم
+Arrange - يرتب
+Appropriate - مناسب
+Occupying - مشغول
+Mutable - قابل للتغيير
+Immutable - غير قابل للتغيير
+Against - ضد
+Straight - مستقيم
+Compose - يؤلف
+Adapted - مُعدل
+Composition - تركيبة
+Responsibility - مسؤولية
+Remains - يبقى
+Satisfied - راضٍ
+Architectural - معماري
+Considering - بالنظر إلى
+Overall - بشكل عام
+Beyond - أبعد
+Worth - يستحق
+Briefly - باختصار
+Instructions - تعليمات
+Through - من خلال
+Bootstrap - تمهيد
+Particular - خاص
+Daemon - برنامج خفي
+Initializes - يهيئ
+Schema - مخطط
+Increment - زيادة
+Upon - عند
+Inspect - يفحص
+Initial - أولي
+Encounter - مواجهة
+Convenient - ملائم
+Realizing - إدراك
+Rollbacks - تراجع
+Spread - انتشار
+Among - بين
+Unified - موحد
+Atomically - ذرّياً
+Reproduces - يعيد إنتاجه
+Hierarchy - تسلسل هرمي
+Means - وسائل
+Symbolic - رمزي
+Therefore - لذلك
+Preparation - تحضير
+Summing - جمع
+Exceptions - استثناءات
+Traceback - تتبع الأخطاء
+Nightmares - كوابيس
+Screwed - مخرب
+Bellyaching - الشكوى
+Embarked - شرع في
+Vixen - ثعلبة
+Postponed - مؤجل
+Terrified - خائف جدًا
+Uncomprehending - غير فاهم
+Dim - خافت
+Creatures - مخلوقات
+Capable - قادر
+Eloquently - بلاغة
+Hanging out - hanging out - يقضي الوقت
+Darn - تبا
+Contractual - تعاقدي
+Manifestations - تجليات
+Desires - رغبات
+Realizing - إدراك
+Decent - لائق
+Adulthood - سن الرشد
+Significant - كبير / مهم
+Unprecedented - غير مسبوق
+Contradictory - متناقض
+Disorder - اضطراب
+Completely - تمامًا
+Remorse - ندم
+Finesse - براعة
+Profound - عميق
+Restitution - تعويض
+Desperation - يأس
+Corrupted - فاسد
+Flawed - معيب
+Inadequate - غير كافٍ
+Scrutiny - تدقيق
+Manipulation - تلاعب
+Effortlessly - بلا جهد
+Constantly - باستمرار
+Anxiety - قلق
+Apprehensive - قلق
+Consistency - اتساق
+Minuscule - دقيق
+Procrastination - تأجيل
+Implementation - تنفيذ
+Success - نجاح
+Analyzed - مُحلّل
+Existing - موجود
+Various - متنوع
+Affirmative - إيجابي
+Conclusive - قاطع
+Credibility - مصداقية
+Noteworthy - جدير بالملاحظة
+Substantial - كبير
+Rationale - مبرر
+Refined - مصقول
+Noteworthy - جدير بالملاحظة
+Depending - اعتمادا على
+brain - مخ
+memorize - حفظ
+
+
